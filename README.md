@@ -25,7 +25,7 @@ Este é um projeto de estudo que demonstra a implementação de autenticação u
 
 1. Clone o repositório:
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
+git clone https://github.com/PedroHBachiega/Login-Google-Firebase
 ```
 
 2. Instale as dependências:
